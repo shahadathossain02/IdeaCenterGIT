@@ -9,6 +9,7 @@ namespace TestForGitHUB
     {
         public void Main(string[] args)
         {
+            Console.ReadKey();
         }
     }
 }
